@@ -1,0 +1,37 @@
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+c:\users\h2820\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+\\SV-1\h28保存用\ｓ20\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+\\sv-1\h28保存用\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\IN8i-15X7200\Downloads\ｓ20\ｓ20\2年の課題\プロ技\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
